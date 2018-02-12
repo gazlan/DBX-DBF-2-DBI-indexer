@@ -1,0 +1,7 @@
+-*-   DBF-2-DBI2  1.0   *   Copyright (c) Gazlan, 2015   -*-
+
+DBX DBF-2-DBI2 indexer (with dups)
+
+Usage: dbf2dbi2.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
